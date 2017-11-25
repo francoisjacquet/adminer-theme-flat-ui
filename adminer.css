@@ -365,3 +365,7 @@ i {
 .pages a {
 	padding: 3px;
 }
+
+code.jush-pgsql {
+	line-height: 2;
+}
